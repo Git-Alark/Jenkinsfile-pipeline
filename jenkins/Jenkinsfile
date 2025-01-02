@@ -13,6 +13,13 @@ pipeline
                      steps { echo 'hello message' }
                 }
 
+                 stage("CPU Useage")
+
+                {
+
+                     steps { echo 'top usage' }
+                }
+
     }
 
 
