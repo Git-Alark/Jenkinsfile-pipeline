@@ -6,7 +6,7 @@ pipeline
     stages
     {
 
-            stage(Print your messeage)
+            stage("Print your messeage")
 
                 {
 
