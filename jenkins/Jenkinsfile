@@ -1,0 +1,20 @@
+pipline
+{
+
+
+    agent any
+    stages
+    {
+
+            stage(your messeage)
+
+                {
+
+                    echo"hello mesage"
+                }
+
+    }
+
+
+
+}
